@@ -1,20 +1,19 @@
 # surfs_up
-- Used SQLalchemy:
-        - to create and engine
-        - create a base class for an automap schema
-        - reflect tables, and
-        - to query data
+- Used SQLalchemy: 
+1. to create and engine
+2. create a base class for an automap schemareflect tables, and 
+3. to query data
 - Incorporated Flask into data analysis by:
-    - building Flask routes
+1. building Flask routes
     
 # Challenge
 - Analyze seasonal data in Oahu in all of June and December data we have
 
 # Statistical Data about the month of June
-![June](http://localhost:8889/view/Documents/Bootcamp/surfs_up/JUNE.png)
+![June](https://github.com/sdang101/surfs_up/blob/master/JUNE.png)
 
 # Statistical Data about the month of December
-![Dec](http://localhost:8889/view/Documents/Bootcamp/surfs_up/DEC.png)
+![Dec](https://github.com/sdang101/surfs_up/blob/master/DEC.png)
 
 # Comparsion
 - The June precipation data has 1574 total entries and the June temperature has 1700 total entries while the December precipation data has 1405 total entires and the December temperature has 1517 total entries. June has more 169 more precipation data entries and 183 more temperature data entries.
